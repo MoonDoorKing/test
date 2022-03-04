@@ -1,2 +1,3 @@
-# test
-2022years GIT test
+# 첫 GIT 업로드 테스트
+
+업로드를 테스트 합니다.
